@@ -1,5 +1,3 @@
-Claro, aqui está a documentação completa em Markdown:
-
 # Identação e Blocos de Código
 
 A identação é uma prática de adicionar espaços ou tabulações no início das linhas de código para torná-lo mais legível e organizado. Ela ajuda a visualizar a estrutura do código e a relação entre diferentes blocos de código.
